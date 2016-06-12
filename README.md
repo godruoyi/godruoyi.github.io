@@ -1,10 +1,4 @@
-### MASTER
+# IT's My github it blog
 
-
-> my blog post
-
-
-    just test
-### My godruoyi.github.io
-
+ Please goto [godruoyi](https://godruoyi.github.io)
 
